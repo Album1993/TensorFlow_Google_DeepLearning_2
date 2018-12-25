@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples/Chapter1/softmax_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="68">
               <caret line="6" selection-start-line="6" selection-end-line="15" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples/Chapter1/convolutional.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="510">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -36,11 +36,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Some Special Cases/LSTM/5 Examples of Simple Sequence Prediction Problems for Learning LSTM Recurrent Neural Networks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -67,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="927" />
@@ -238,8 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
-    <editor active="true" />
+    <frame x="67" y="25" width="927" height="1055" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.38053098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -272,13 +267,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-gpu/lib/python3.5/site-packages/scipy/misc/pilutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="318" column="4" selection-start-line="290" selection-start-column="7" selection-end-line="318" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-gpu/lib/python3.5/site-packages/scipy/misc/pilutil.py" />
     <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples/Result/Chapter1/MNIST_data/rawmnist_train_9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -319,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples/Chapter1/softmax_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="68">
           <caret line="6" selection-start-line="6" selection-end-line="15" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -329,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep-Learning-21-Examples/Chapter1/convolutional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="510">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -338,11 +327,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Some Special Cases/LSTM/5 Examples of Simple Sequence Prediction Problems for Learning LSTM Recurrent Neural Networks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

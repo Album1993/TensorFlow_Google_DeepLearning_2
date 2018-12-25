@@ -1,7 +1,4 @@
 
-# https://machinelearningmastery.com/sequence-prediction-problems-learning-lstm-recurrent-neural-networks/
-from numpy import array
-
 # def generate_sequence(length = 10):
 #     return array([i/float(length) for i in range(length)])
 #

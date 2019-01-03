@@ -3,15 +3,15 @@ import collections
 
 from operator import itemgetter
 
-RAW_DATA_TRAIN = "./Data/PTB/ptb.train.txt"
+RAW_DATA_TRAIN = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.train.txt"
 
 VOCAB_OUTPUT_TRAIN = "./Result/chapter9_2_ptb_train.vocab"
 
-RAW_DATA_TEST = "./Data/PTB/ptb.test.txt"
+RAW_DATA_TEST = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.test.txt"
 
 VOCAB_OUTPUT_TEST = "./Result/chapter9_2_ptb_test.vocab"
 
-RAW_DATA_VALID = "./Data/PTB/ptb.valid.txt"
+RAW_DATA_VALID = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.valid.txt"
 
 VOCAB_OUTPUT_VALID = "./Result/chapter9_2_ptb_valid.vocab"
 

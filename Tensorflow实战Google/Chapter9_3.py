@@ -1,15 +1,15 @@
 import codecs
 import sys
 
-RAW_DATA_TRAIN = "./Data/PTB/ptb.train.txt"
+RAW_DATA_TRAIN = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.train.txt"
 VOCAB_TRAIN = "./Result/chapter9_2_ptb_train.vocab"
 OUTPUT_DATA_TRAIN = "./Result/chapter9_3_ptb.train"
 
-RAW_DATA_TEST = "./Data/PTB/ptb.test.txt"
+RAW_DATA_TEST = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.test.txt"
 VOCAB_TEST = "./Result/chapter9_2_ptb_test.vocab"
 OUTPUT_DATA_TEST = "./Result/chapter9_3_ptb.test"
 
-RAW_DATA_VALID = "./Data/PTB/ptb.valid.txt"
+RAW_DATA_VALID = "./Deep_Learning_with_TensorFlow/datasets/PTB_data/ptb.valid.txt"
 VOCAB_VALID = "./Result/chapter9_2_ptb_valid.vocab"
 OUTPUT_DATA_VALID = "./Result/chapter9_3_ptb.valid"
 
